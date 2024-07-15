@@ -32,15 +32,8 @@ Login credentials:
 .
 ├── Dockerfile
 ├── README.md
-├── config
-├── connections
 ├── dags
 │   ├── __init__.py
-│   ├── __pycache__
-│   └── static
 ├── docker-compose.yaml
-├── logs
-├── plugins
 ├── requirements.txt
-└── variables
 </pre>
